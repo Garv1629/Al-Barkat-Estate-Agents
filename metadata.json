@@ -1,0 +1,6 @@
+{
+  "name": "Al-Barkat Estate Agents",
+  "description": "Al-Barkat Estate Agents — 4.7 ★ (102 Reviews) Real estate agent at Apna Bazar Rd, Dhake Colony, Sahakar Nagar, Azad Nagar, Andheri West, Mumbai, Maharashtra 400053.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
